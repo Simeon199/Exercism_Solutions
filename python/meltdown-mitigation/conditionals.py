@@ -1,5 +1,3 @@
-"""Main task file"""
-
 """Functions to prevent a nuclear meltdown."""
 
 
